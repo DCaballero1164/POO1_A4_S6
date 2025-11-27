@@ -39,7 +39,7 @@ En términos funcionales, el sistema permite:
 
 El proyecto está organizado en paquetes siguiendo la convención de dominio invertido (cl.salmontt), lo que facilita la escalabilidad y la claridad del código.
 
-'''
+```
 ├── 📂 ui/                   # Interfaz de Usuario (Entrada/Salida)
 │   └── Main.java             # Punto de entrada. Coordina el flujo, carga y filtrado.
 │
@@ -50,17 +50,17 @@ El proyecto está organizado en paquetes siguiendo la convención de dominio inv
 │
 └── 📂 data/                 # Lógica de Datos y Persistencia
     └── GestorUnidades.java   # Maneja la lectura, escritura y filtrado de datos
-'''
+```
 
 
 ⚙️ Instrucciones para clonar y ejecutar el proyecto
 Clonar el repositorio desde GitHub:
 
 Opcion 1:
-git clone https://github.com/DCaballero1164/POO1_A4_S6
+ git clone https://github.com/DCaballero1164/POO1_A4_S6
 
 Opcion2:
-Archivo .jar en carpeta en main de GitHub -> out/artifacts/SalmonttApp.jar
+ Archivo .jar en carpeta en main de GitHub -> out/artifacts/SalmonttApp.jar
 
 Abrir el proyecto en IntelliJ IDEA (utilizar JDK 17 o superior).
 
