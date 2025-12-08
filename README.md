@@ -60,7 +60,7 @@ Opcion 1:
  git clone https://github.com/DCaballero1164/POO1_A4_S6
 
 Opcion2:
- Archivo .jar en carpeta en main de GitHub -> Ruta: out/artifacts/SalmonttApp_jar/SalmonttApp.jar
+ Archivo .jar en carpeta en main de GitHub -> out/artifacts/SalmonttApp.jar
 
 Abrir el proyecto en IntelliJ IDEA (utilizar JDK 17 o superior).
 
